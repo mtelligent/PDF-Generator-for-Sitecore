@@ -20,15 +20,19 @@ This supports a number of useful optional parameters including:
 # Examples
 
 Render the Default Home Page as a plain PDF:
+
 http://pdf.dev.local/pdf/%7B110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9%7D
 
 Render it with a fileName having it download instead of open in a browser.
+
 http://pdf.dev.local/pdf/%7B110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9%7D?name=HomePage
 
 Render it using a Legal Page Size
+
 http://pdf.dev.local/pdf/%7B110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9%7D?size=Legal
 
 Render it Landscape and disable smart shrinking
+
 http://pdf.dev.local/pdf/%7B110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9%7D?landscape=y&dss=y
 
 # Disclaimer
